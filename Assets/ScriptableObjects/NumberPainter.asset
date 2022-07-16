@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e601eee92c59066469412738aa87826b, type: 3}
+  m_Name: NumberPainter
+  m_EditorClassIdentifier: 
+  valuePainterPrefab: {fileID: 9124975678638896871, guid: f2ec6330de99b42488f0863624f63e52, type: 3}
